@@ -1,4 +1,4 @@
-package org.launchcode.java.demos.lsn3classes1;
+package org.launchcode.java.exercises.ChapterFour;
 
 public class SchoolPractice {
     public static void main(String[] args) {
@@ -6,7 +6,3 @@ public class SchoolPractice {
         Student s1 = new Student("Scott", 12345,1,4.0);
     }
 }
-
-//class Course{
-//
-//}
